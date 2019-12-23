@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T18:23:16.236Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.2.252 Yowser/2.5 Safari/537.36" etag="d5k3LbWYaplQqRtUTNPr" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-23T18:24:01.752Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.2.252 Yowser/2.5 Safari/537.36" etag="TLOwk5d4ustuwe5iiH9T" version="12.4.3" type="github" pages="1">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1963" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -930,6 +930,18 @@
             <mxPoint x="1320" as="sourcePoint"/>
             <mxPoint x="530" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ekykvrXrYyQtkSd145x7-212" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Дешифратор&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="160" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ekykvrXrYyQtkSd145x7-213" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Триггеры&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ekykvrXrYyQtkSd145x7-214" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="609" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ekykvrXrYyQtkSd145x7-215" value="&lt;font style=&quot;font-size: 29px&quot;&gt;Мультиплексор&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="629" width="220" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
